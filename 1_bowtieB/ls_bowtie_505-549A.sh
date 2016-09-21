@@ -1,0 +1,10 @@
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164539_1.fastq -2 /home/storage/lung/ls/ERR164539_2.fastq /home/storage/lung/result_samB/ERR164539.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164528_1.fastq -2 /home/storage/lung/ls/ERR164528_2.fastq /home/storage/lung/result_samB/ERR164528.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164514_1.fastq -2 /home/storage/lung/ls/ERR164514_2.fastq /home/storage/lung/result_samB/ERR164514.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164509_1.fastq -2 /home/storage/lung/ls/ERR164509_2.fastq /home/storage/lung/result_samB/ERR164509.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164522_1.fastq -2 /home/storage/lung/ls/ERR164522_2.fastq /home/storage/lung/result_samB/ERR164522.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164526_1.fastq -2 /home/storage/lung/ls/ERR164526_2.fastq /home/storage/lung/result_samB/ERR164526.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164540_1.fastq -2 /home/storage/lung/ls/ERR164540_2.fastq /home/storage/lung/result_samB/ERR164540.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164529_1.fastq -2 /home/storage/lung/ls/ERR164529_2.fastq /home/storage/lung/result_samB/ERR164529.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164547_1.fastq -2 /home/storage/lung/ls/ERR164547_2.fastq /home/storage/lung/result_samB/ERR164547.sam
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164548_1.fastq -2 /home/storage/lung/ls/ERR164548_2.fastq /home/storage/lung/result_samB/ERR164548.sam

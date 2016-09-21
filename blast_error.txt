@@ -1,0 +1,15 @@
+[root@localhost bin]# ./blastall -p blastn -d hg19.fa -i extract_output_different.txt -e 1e-60 -o blat_lc1_output.txt
+[blastall] WARNING: chr16_-_89366534_A-C_A:3_C:2_sum:5_0.4_NM_013275_: Could not calculate ungapped Karlin-Altschul parameters due to an invalid query sequence or its translation. Please verify the query sequence(s) and/or filtering options
+[blastall] WARNING: chr17_+_75212190_T-G_T:3_G:2_sum:5_0.4_NM_0011439: Could not calculate ungapped Karlin-Altschul parameters due to an invalid query sequence or its translation. Please verify the query sequence(s) and/or filtering options
+[blastall] WARNING: chr17_+_75212424_T-C_T:5_C:5_sum:10_0.5_NM_001143: Could not calculate ungapped Karlin-Altschul parameters due to an invalid query sequence or its translation. Please verify the query sequence(s) and/or filtering options
+[root@localhost bin]# 
+
+
+
+
+
+
+
+[root@localhost lc1]# perl blast_parser_final.pl  blat_lc1_output.txt >extract_output_different_blast_lc1.list
+OK, processed 59093 queries, 6510491 hits
+

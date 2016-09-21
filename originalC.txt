@@ -1,0 +1,670 @@
+
+[root@localhost bowtie-1.0.0]# ./bowtie -t -v 3 -S -m 1 -p 5 -X 500 hg19 -1 /home/storage/lung/ls/fastq/ERR164589_1.fastq -2 /home/storage/lung/ls/fastq/ERR164589_2.fastq /home/storage/lung/result_SAMc/ERR164589.sam
+Time loading forward index: 00:00:04
+Time loading mirror index: 00:00:04
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 36:25:42
+# reads processed: 109352960
+# reads with at least one reported alignment: 48244509 (44.12%)
+# reads that failed to align: 50465211 (46.15%)
+# reads with alignments suppressed due to -m: 10643240 (9.73%)
+Reported 48244509 paired-end alignments to 1 output stream(s)
+Time searching: 36:25:52
+Overall time: 36:25:52
+[root@localhost bowtie-1.0.0]# 
+
+
+[root@localhost bowtie-1.0.0]# sh ls_bowtie_586-634A.sh 
+Time loading forward index: 00:00:05
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 22:44:32
+# reads processed: 67385676
+# reads with at least one reported alignment: 25917151 (38.46%)
+# reads that failed to align: 37482688 (55.62%)
+# reads with alignments suppressed due to -m: 3985837 (5.91%)
+Reported 25917151 paired-end alignments to 1 output stream(s)
+Time searching: 22:44:47
+Overall time: 22:44:47
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:08
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 09:02:41   
+# reads processed: 33115066
+# reads with at least one reported alignment: 7832548 (23.65%)
+# reads that failed to align: 24329275 (73.47%)
+# reads with alignments suppressed due to -m: 953243 (2.88%)
+Reported 7832548 paired-end alignments to 1 output stream(s)
+Time searching: 09:02:51
+Overall time: 09:02:51
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:05
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 18:10:26
+# reads processed: 57606955
+# reads with at least one reported alignment: 26608270 (46.19%)
+# reads that failed to align: 24259516 (42.11%)
+# reads with alignments suppressed due to -m: 6739169 (11.70%)
+Reported 26608270 paired-end alignments to 1 output stream(s)
+Time searching: 18:10:33
+Overall time: 18:10:33
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 18:04:55
+# reads processed: 60414304
+# reads with at least one reported alignment: 23250106 (38.48%)
+# reads that failed to align: 34023999 (56.32%)
+# reads with alignments suppressed due to -m: 3140199 (5.20%)
+Reported 23250106 paired-end alignments to 1 output stream(s)
+Time searching: 18:05:01
+Overall time: 18:05:01
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 10:34:00
+# reads processed: 35208393
+# reads with at least one reported alignment: 14454865 (41.06%)
+# reads that failed to align: 17726605 (50.35%)
+# reads with alignments suppressed due to -m: 3026923 (8.60%)
+Reported 14454865 paired-end alignments to 1 output stream(s)
+Time searching: 10:34:07
+Overall time: 10:34:07
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 10:13:40
+# reads processed: 47315689
+# reads with at least one reported alignment: 5390832 (11.39%)
+# reads that failed to align: 40843031 (86.32%)
+# reads with alignments suppressed due to -m: 1081826 (2.29%)
+Reported 5390832 paired-end alignments to 1 output stream(s)
+Time searching: 10:13:42
+Overall time: 10:13:42
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 19:29:27
+# reads processed: 60720273
+# reads with at least one reported alignment: 25510541 (42.01%)
+# reads that failed to align: 31986789 (52.68%)
+# reads with alignments suppressed due to -m: 3222943 (5.31%)
+Reported 25510541 paired-end alignments to 1 output stream(s)
+Time searching: 19:29:30
+Overall time: 19:29:30
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:02
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 18:37:40
+# reads processed: 57751163
+# reads with at least one reported alignment: 26257893 (45.47%)
+# reads that failed to align: 26877397 (46.54%)
+# reads with alignments suppressed due to -m: 4615873 (7.99%)
+Reported 26257893 paired-end alignments to 1 output stream(s)
+Time searching: 18:37:43
+Overall time: 18:37:43
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 16:04:13
+# reads processed: 55195368
+# reads with at least one reported alignment: 18959288 (34.35%)
+# reads that failed to align: 33819440 (61.27%)
+# reads with alignments suppressed due to -m: 2416640 (4.38%)
+Reported 18959288 paired-end alignments to 1 output stream(s)
+Time searching: 16:04:18
+Overall time: 16:04:18
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 09:30:03
+# reads processed: 32015184
+# reads with at least one reported alignment: 10674837 (33.34%)
+# reads that failed to align: 20021941 (62.54%)
+# reads with alignments suppressed due to -m: 1318406 (4.12%)
+Reported 10674837 paired-end alignments to 1 output stream(s)
+Time searching: 09:30:05
+Overall time: 09:30:05
+[root@localhost bowtie-1.0.0]# 
+
+
+
+
+[root@localhost bowtie-1.0.0]# sh ls_bowtie_586-634B.sh 
+Time loading forward index: 00:00:05
+Time loading mirror index: 00:00:02
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 11:25:22
+# reads processed: 41045273
+# reads with at least one reported alignment: 14210844 (34.62%)
+# reads that failed to align: 25399468 (61.88%)
+# reads with alignments suppressed due to -m: 1434961 (3.50%)
+Reported 14210844 paired-end alignments to 1 output stream(s)
+Time searching: 11:25:30
+Overall time: 11:25:30
+Time loading forward index: 00:00:11
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 16:13:58
+# reads processed: 60253340
+# reads with at least one reported alignment: 24906089 (41.34%)
+# reads that failed to align: 31510074 (52.30%)
+# reads with alignments suppressed due to -m: 3837177 (6.37%)
+Reported 24906089 paired-end alignments to 1 output stream(s)
+Time searching: 16:14:17
+Overall time: 16:14:17
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 02:45:39
+# reads processed: 10939116
+# reads with at least one reported alignment: 4018685 (36.74%)
+# reads that failed to align: 6404047 (58.54%)
+# reads with alignments suppressed due to -m: 516384 (4.72%)
+Reported 4018685 paired-end alignments to 1 output stream(s)
+Time searching: 02:45:45
+Overall time: 02:45:46
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 09:11:08
+# reads processed: 36607936
+# reads with at least one reported alignment: 13273627 (36.26%)
+# reads that failed to align: 21361455 (58.35%)
+# reads with alignments suppressed due to -m: 1972854 (5.39%)
+Reported 13273627 paired-end alignments to 1 output stream(s)
+Time searching: 09:11:13
+Overall time: 09:11:13
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 06:39:01
+# reads processed: 25639079
+# reads with at least one reported alignment: 11185881 (43.63%)
+# reads that failed to align: 11974529 (46.70%)
+# reads with alignments suppressed due to -m: 2478669 (9.67%)
+Reported 11185881 paired-end alignments to 1 output stream(s)
+Time searching: 06:39:05
+Overall time: 06:39:05
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 14:33:37
+# reads processed: 55302491
+# reads with at least one repo[root@localhost bowtie-1.0.0]# sh ls_bowtie_586-634C.sh 
+Time loading forward index: 00:00:10
+Time loading mirror index: 00:00:03
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 03:41:59
+# reads processed: 16098438
+# reads with at least one reported alignment: 6124126 (38.04%)
+# reads that failed to align: 8922263 (55.42%)
+# reads with alignments suppressed due to -m: 1052049 (6.54%)
+Reported 6124126 paired-end alignments to 1 output stream(s)
+Time searching: 03:42:16
+Overall time: 03:42:16
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:08
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 14:00:52
+# reads processed: 67129037
+# reads with at least one reported alignment: 24209181 (36.06%)
+# reads that failed to align: 39124412 (58.28%)
+# reads with alignments suppressed due to -m: 3795444 (5.65%)
+Reported 24209181 paired-end alignments to 1 output stream(s)
+Time searching: 14:01:05
+Overall time: 14:01:05
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:02
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 08:09:32
+# reads processed: 38627258
+# reads with at least one reported alignment: 12152384 (31.46%)
+# reads that failed to align: 24589045 (63.66%)
+# reads with alignments suppressed due to -m: 1885829 (4.88%)
+Reported 12152384 paired-end alignments to 1 output stream(s)
+Time searching: 08:09:39
+Overall time: 08:09:39
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 11:11:08
+# reads processed: 55724222
+# reads with at least one reported alignment: 21950580 (39.39%)
+# reads that failed to align: 29389926 (52.74%)
+# reads with alignments suppressed due to -m: 4383716 (7.87%)
+Reported 21950580 paired-end alignments to 1 output stream(s)
+Time searching: 11:11:12
+Overall time: 11:11:12
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 06:18:35
+# reads processed: 36233458
+# reads with at least one reported alignment: 8830283 (24.37%)
+# reads that failed to align: 25926374 (71.55%)
+# reads with alignments suppressed due to -m: 1476801 (4.08%)
+Reported 8830283 paired-end alignments to 1 output stream(s)
+Time searching: 06:18:38
+Overall time: 06:18:38
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 13:18:50
+# reads processed: 63317174
+# reads with at least one reported alignment: 24326151 (38.42%)
+# reads that failed to align: 35362560 (55.85%)
+# reads with alignments suppressed due to -m: 3628463 (5.73%)
+Reported 24326151 paired-end alignments to 1 output stream(s)
+Time searching: 13:18:53
+Overall time: 13:18:53
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 13:57:23
+# reads processed: 63856760
+# reads with at least one reported alignment: 24666052 (38.63%)
+# reads that failed to align: 35210000 (55.14%)
+# reads with alignments suppressed due to -m: 3980708 (6.23%)
+Reported 24666052 paired-end alignments to 1 output stream(s)
+Time searching: 13:57:26
+Overall time: 13:57:26
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 07:15:10
+# reads processed: 35692599
+# reads with at least one reported alignment: 13691426 (38.36%)
+# reads that failed to align: 19314328 (54.11%)
+# reads with alignments suppressed due to -m: 2686845 (7.53%)
+Reported 13691426 paired-end alignments to 1 output stream(s)
+Time searching: 07:15:13
+Overall time: 07:15:13
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 14:21:57
+# reads processed: 66588273
+# reads with at least one reported alignment: 27192689 (40.84%)
+# reads that failed to align: 35722445 (53.65%)
+# reads with alignments suppressed due to -m: 3673139 (5.52%)
+Reported 27192689 paired-end alignments to 1 output stream(s)
+Time searching: 14:22:00
+Overall time: 14:22:00
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 07:19:18
+# reads processed: 33747468
+# reads with at least one reported alignment: 11098967 (32.89%)
+# reads that failed to align: 20713060 (61.38%)
+# reads with alignments suppressed due to -m: 1935441 (5.74%)
+Reported 11098967 paired-end alignments to 1 output stream(s)
+Time searching: 07:19:20
+Overall time: 07:19:20
+[root@localhost bowtie-1.0.0]# 
+rted alignment: 22307451 (40.34%)
+# reads that failed to align: 28699043 (51.89%)
+# reads with alignments suppressed due to -m: 4295997 (7.77%)
+Reported 22307451 paired-end alignments to 1 output stream(s)
+Time searching: 14:33:39
+Overall time: 14:33:39
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 09:31:08
+# reads processed: 37334315
+# reads with at least one reported alignment: 13496599 (36.15%)
+# reads that failed to align: 22256001 (59.61%)
+# reads with alignments suppressed due to -m: 1581715 (4.24%)
+Reported 13496599 paired-end alignments to 1 output stream(s)
+Time searching: 09:31:11
+Overall time: 09:31:11
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 10:56:19
+# reads processed: 39817881
+# reads with at least one reported alignment: 18708036 (46.98%)
+# reads that failed to align: 16881402 (42.40%)
+# reads with alignments suppressed due to -m: 4228443 (10.62%)
+Reported 18708036 paired-end alignments to 1 output stream(s)
+Time searching: 10:56:22
+Overall time: 10:56:22
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 13:24:19
+# reads processed: 49749450
+# reads with at least one reported alignment: 20825559 (41.86%)
+# reads that failed to align: 25313130 (50.88%)
+# reads with alignments suppressed due to -m: 3610761 (7.26%)
+Reported 20825559 paired-end alignments to 1 output stream(s)
+Time searching: 13:24:23
+Overall time: 13:24:23
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 08:14:36
+# reads processed: 34779422
+# reads with at least one reported alignment: 12035107 (34.60%)
+# reads that failed to align: 21284630 (61.20%)
+# reads with alignments suppressed due to -m: 1459685 (4.20%)
+Reported 12035107 paired-end alignments to 1 output stream(s)
+Time searching: 08:14:38
+Overall time: 08:14:38
+You have mail in /var/spool/mail/root
+[root@localhost bowtie-1.0.0]# 
+
+
+
+[root@localhost bowtie-1.0.0]# sh ls_bowtie_586-634C.sh 
+Time loading forward index: 00:00:10
+Time loading mirror index: 00:00:03
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 03:41:59
+# reads processed: 16098438
+# reads with at least one reported alignment: 6124126 (38.04%)
+# reads that failed to align: 8922263 (55.42%)
+# reads with alignments suppressed due to -m: 1052049 (6.54%)
+Reported 6124126 paired-end alignments to 1 output stream(s)
+Time searching: 03:42:16
+Overall time: 03:42:16
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:08
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 14:00:52
+# reads processed: 67129037
+# reads with at least one reported alignment: 24209181 (36.06%)
+# reads that failed to align: 39124412 (58.28%)
+# reads with alignments suppressed due to -m: 3795444 (5.65%)
+Reported 24209181 paired-end alignments to 1 output stream(s)
+Time searching: 14:01:05
+Overall time: 14:01:05
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:02
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 08:09:32
+# reads processed: 38627258
+# reads with at least one reported alignment: 12152384 (31.46%)
+# reads that failed to align: 24589045 (63.66%)
+# reads with alignments suppressed due to -m: 1885829 (4.88%)
+Reported 12152384 paired-end alignments to 1 output stream(s)
+Time searching: 08:09:39
+Overall time: 08:09:39
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 11:11:08
+# reads processed: 55724222
+# reads with at least one reported alignment: 21950580 (39.39%)
+# reads that failed to align: 29389926 (52.74%)
+# reads with alignments suppressed due to -m: 4383716 (7.87%)
+Reported 21950580 paired-end alignments to 1 output stream(s)
+Time searching: 11:11:12
+Overall time: 11:11:12
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 06:18:35
+# reads processed: 36233458
+# reads with at least one reported alignment: 8830283 (24.37%)
+# reads that failed to align: 25926374 (71.55%)
+# reads with alignments suppressed due to -m: 1476801 (4.08%)
+Reported 8830283 paired-end alignments to 1 output stream(s)
+Time searching: 06:18:38
+Overall time: 06:18:38
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 13:18:50
+# reads processed: 63317174
+# reads with at least one reported alignment: 24326151 (38.42%)
+# reads that failed to align: 35362560 (55.85%)
+# reads with alignments suppressed due to -m: 3628463 (5.73%)
+Reported 24326151 paired-end alignments to 1 output stream(s)
+Time searching: 13:18:53
+Overall time: 13:18:53
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 13:57:23
+# reads processed: 63856760
+# reads with at least one reported alignment: 24666052 (38.63%)
+# reads that failed to align: 35210000 (55.14%)
+# reads with alignments suppressed due to -m: 3980708 (6.23%)
+Reported 24666052 paired-end alignments to 1 output stream(s)
+Time searching: 13:57:26
+Overall time: 13:57:26
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 07:15:10
+# reads processed: 35692599
+# reads with at least one reported alignment: 13691426 (38.36%)
+# reads that failed to align: 19314328 (54.11%)
+# reads with alignments suppressed due to -m: 2686845 (7.53%)
+Reported 13691426 paired-end alignments to 1 output stream(s)
+Time searching: 07:15:13
+Overall time: 07:15:13
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 14:21:57
+# reads processed: 66588273
+# reads with at least one reported alignment: 27192689 (40.84%)
+# reads that failed to align: 35722445 (53.65%)
+# reads with alignments suppressed due to -m: 3673139 (5.52%)
+Reported 27192689 paired-end alignments to 1 output stream(s)
+Time searching: 14:22:00
+Overall time: 14:22:00
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 07:19:18
+# reads processed: 33747468
+# reads with at least one reported alignment: 11098967 (32.89%)
+# reads that failed to align: 20713060 (61.38%)
+# reads with alignments suppressed due to -m: 1935441 (5.74%)
+Reported 11098967 paired-end alignments to 1 output stream(s)
+Time searching: 07:19:20
+Overall time: 07:19:20
+[root@localhost bowtie-1.0.0]# 
+
+
+
+
+[root@localhost bowtie-1.0.0]# sh ls_bowtie_586-634D.sh 
+Time loading forward index: 00:00:05
+Time loading mirror index: 00:00:05
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 09:39:26
+# reads processed: 40642669
+# reads with at least one reported alignment: 16659673 (40.99%)
+# reads that failed to align: 21399173 (52.65%)
+# reads with alignments suppressed due to -m: 2583823 (6.36%)
+Reported 16659673 paired-end alignments to 1 output stream(s)
+Time searching: 09:39:38
+Overall time: 09:39:38
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 14:50:00
+# reads processed: 65138060
+# reads with at least one reported alignment: 28725148 (44.10%)
+# reads that failed to align: 32640251 (50.11%)
+# reads with alignments suppressed due to -m: 3772661 (5.79%)
+Reported 28725148 paired-end alignments to 1 output stream(s)
+Time searching: 14:50:04
+Overall time: 14:50:04
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 14:48:59
+# reads processed: 61887903
+# reads with at least one reported alignment: 30490273 (49.27%)
+# reads that failed to align: 27212349 (43.97%)
+# reads with alignments suppressed due to -m: 4185281 (6.76%)
+Reported 30490273 paired-end alignments to 1 output stream(s)
+Time searching: 14:49:03
+Overall time: 14:49:03
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 06:21:08
+# reads processed: 34210780
+# reads with at least one reported alignment: 8045629 (23.52%)
+# reads that failed to align: 25160900 (73.55%)
+# reads with alignments suppressed due to -m: 1004251 (2.94%)
+Reported 8045629 paired-end alignments to 1 output stream(s)
+Time searching: 06:21:11
+Overall time: 06:21:11
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 07:22:16
+# reads processed: 35163857
+# reads with at least one reported alignment: 12027639 (34.20%)
+# reads that failed to align: 21854270 (62.15%)
+# reads with alignments suppressed due to -m: 1281948 (3.65%)
+Reported 12027639 paired-end alignments to 1 output stream(s)
+Time searching: 07:22:19
+Overall time: 07:22:19
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 12:22:57
+# reads processed: 54159676
+# reads with at least one reported alignment: 25382919 (46.87%)
+# reads that failed to align: 25210246 (46.55%)
+# reads with alignments suppressed due to -m: 3566511 (6.59%)
+Reported 25382919 paired-end alignments to 1 output stream(s)
+Time searching: 12:23:00
+Overall time: 12:23:00
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:02
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 14:04:43
+# reads processed: 61863976
+# reads with at least one reported alignment: 27936446 (45.16%)
+# reads that failed to align: 30266546 (48.92%)
+# reads with alignments suppressed due to -m: 3660984 (5.92%)
+Reported 27936446 paired-end alignments to 1 output stream(s)
+Time searching: 14:04:48
+Overall time: 14:04:48
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 07:27:36
+# reads processed: 34893898
+# reads with at least one reported alignment: 12283271 (35.20%)
+# reads that failed to align: 20854566 (59.77%)
+# reads with alignments suppressed due to -m: 1756061 (5.03%)
+Reported 12283271 paired-end alignments to 1 output stream(s)
+Time searching: 07:27:42
+Overall time: 07:27:42
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 07:11:00
+# reads processed: 34223354
+# reads with at least one reported alignment: 10898976 (31.85%)
+# reads that failed to align: 21702268 (63.41%)
+# reads with alignments suppressed due to -m: 1622110 (4.74%)
+Reported 10898976 paired-end alignments to 1 output stream(s)
+Time searching: 07:11:04
+Overall time: 07:11:04
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 12:16:13
+# reads processed: 57662415
+# reads with at least one reported alignment: 23454800 (40.68%)
+# reads that failed to align: 30144957 (52.28%)
+# reads with alignments suppressed due to -m: 4062658 (7.05%)
+Reported 23454800 paired-end alignments to 1 output stream(s)
+Time searching: 12:16:18
+Overall time: 12:16:18
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 04:48:43
+# reads processed: 22541432
+# reads with at least one reported alignment: 9685165 (42.97%)
+# reads that failed to align: 10695420 (47.45%)
+# reads with alignments suppressed due to -m: 2160847 (9.59%)
+Reported 9685165 paired-end alignments to 1 output stream(s)
+Time searching: 04:48:46
+Overall time: 04:48:46
+Time loading forward index: 00:00:02
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:00
+End-to-end 2/3-mismatch full-index search: 10:39:24
+# reads processed: 54933146
+# reads with at least one reported alignment: 19800691 (36.05%)
+# reads that failed to align: 31964159 (58.19%)
+# reads with alignments suppressed due to -m: 3168296 (5.77%)
+Reported 19800691 paired-end alignments to 1 output stream(s)
+Time searching: 10:39:27
+Overall time: 10:39:27
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:01
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 06:31:50
+# reads processed: 32000887
+# reads with at least one reported alignment: 11179989 (34.94%)
+# reads that failed to align: 19484806 (60.89%)
+# reads with alignments suppressed due to -m: 1336092 (4.18%)
+Reported 11179989 paired-end alignments to 1 output stream(s)
+Time searching: 06:31:54
+Overall time: 06:31:54
+Time loading forward index: 00:00:03
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 14:18:58
+# reads processed: 63332457
+# reads with at least one reported alignment: 29027313 (45.83%)
+# reads that failed to align: 31137636 (49.17%)
+# reads with alignments suppressed due to -m: 3167508 (5.00%)
+Reported 29027313 paired-end alignments to 1 output stream(s)
+Time searching: 14:19:10
+Overall time: 14:19:10
+Time loading forward index: 00:00:04
+Time loading mirror index: 00:00:05
+Time loading reference: 00:00:02
+End-to-end 2/3-mismatch full-index search: 07:45:01
+# reads processed: 35597808
+# reads with at least one reported alignment: 16143261 (45.35%)
+# reads that failed to align: 15062969 (42.31%)
+# reads with alignments suppressed due to -m: 4391578 (12.34%)
+Reported 16143261 paired-end alignments to 1 output stream(s)
+Time searching: 07:45:12
+Overall time: 07:45:12
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:08
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 10:55:28
+# reads processed: 52237502
+# reads with at least one reported alignment: 19382370 (37.10%)
+# reads that failed to align: 30479447 (58.35%)
+# reads with alignments suppressed due to -m: 2375685 (4.55%)
+Reported 19382370 paired-end alignments to 1 output stream(s)
+Time searching: 10:55:38
+Overall time: 10:55:38
+Time loading forward index: 00:00:01
+Time loading mirror index: 00:00:05
+Time loading reference: 00:00:01
+End-to-end 2/3-mismatch full-index search: 20:32:51
+# reads processed: 96081958
+# reads with at least one reported alignment: 36117935 (37.59%)
+# reads that failed to align: 54259725 (56.47%)
+# reads with alignments suppressed due to -m: 5704298 (5.94%)
+Reported 36117935 paired-end alignments to 1 output stream(s)
+Time searching: 20:32:58
+Overall time: 20:32:58
+[root@localhost bowtie-1.0.0]# 
+
+
+
+
+

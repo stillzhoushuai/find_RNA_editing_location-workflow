@@ -1,0 +1,615 @@
+[root@hesper bowtie-1.0.0]# sh ls_bowtie_505-549A.sh 
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164539_1.fastq -2 /home/storage/lung/ls/ERR164539_2.fastq /home/storage/lung/result_samB/ERR164539.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 07:37:03
+# reads processed: 52034997
+# reads with at least one reported alignment: 23252199 (44.69%)
+# reads that failed to align: 26010616 (49.99%)
+# reads with alignments suppressed due to -m: 2772182 (5.33%)
+Reported 23252199 paired-end alignments to 1 output stream(s)
+Time searching: 07:37:20
+Overall time: 07:37:20
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164528_1.fastq -2 /home/storage/lung/ls/ERR164528_2.fastq /home/storage/lung/result_samB/ERR164528.sam
+Time loading forward index: 00:00:08
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:24:11
+# reads processed: 38815656
+# reads with at least one reported alignment: 17086280 (44.02%)
+# reads that failed to align: 19263550 (49.63%)
+# reads with alignments suppressed due to -m: 2465826 (6.35%)
+Reported 17086280 paired-end alignments to 1 output stream(s)
+Time searching: 05:24:29
+Overall time: 05:24:29
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164514_1.fastq -2 /home/storage/lung/ls/ERR164514_2.fastq /home/storage/lung/result_samB/ERR164514.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:58:01
+# reads processed: 35726514
+# reads with at least one reported alignment: 15243151 (42.67%)
+# reads that failed to align: 18768208 (52.53%)
+# reads with alignments suppressed due to -m: 1715155 (4.80%)
+Reported 15243151 paired-end alignments to 1 output stream(s)
+Time searching: 04:58:17
+Overall time: 04:58:17
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164509_1.fastq -2 /home/storage/lung/ls/ERR164509_2.fastq /home/storage/lung/result_samB/ERR164509.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:56:10
+# reads processed: 44219885
+# reads with at least one reported alignment: 17277929 (39.07%)
+# reads that failed to align: 24474627 (55.35%)
+# reads with alignments suppressed due to -m: 2467329 (5.58%)
+Reported 17277929 paired-end alignments to 1 output stream(s)
+Time searching: 05:56:28
+Overall time: 05:56:28
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164522_1.fastq -2 /home/storage/lung/ls/ERR164522_2.fastq /home/storage/lung/result_samB/ERR164522.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:18:29
+# reads processed: 37385715
+# reads with at least one reported alignment: 17418380 (46.59%)
+# reads that failed to align: 17840875 (47.72%)
+# reads with alignments suppressed due to -m: 2126460 (5.69%)
+Reported 17418380 paired-end alignments to 1 output stream(s)
+Time searching: 05:18:46
+Overall time: 05:18:46
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164526_1.fastq -2 /home/storage/lung/ls/ERR164526_2.fastq /home/storage/lung/result_samB/ERR164526.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:27:18
+# reads processed: 31527488
+# reads with at least one reported alignment: 13924541 (44.17%)
+# reads that failed to align: 15895691 (50.42%)
+# reads with alignments suppressed due to -m: 1707256 (5.42%)
+Reported 13924541 paired-end alignments to 1 output stream(s)
+Time searching: 04:27:35
+Overall time: 04:27:35
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164540_1.fastq -2 /home/storage/lung/ls/ERR164540_2.fastq /home/storage/lung/result_samB/ERR164540.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 06:41:27
+# reads processed: 47760113
+# reads with at least one reported alignment: 21134311 (44.25%)
+# reads that failed to align: 23716779 (49.66%)
+# reads with alignments suppressed due to -m: 2909023 (6.09%)
+Reported 21134311 paired-end alignments to 1 output stream(s)
+Time searching: 06:41:44
+Overall time: 06:41:44
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164529_1.fastq -2 /home/storage/lung/ls/ERR164529_2.fastq /home/storage/lung/result_samB/ERR164529.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 05:21:54
+# reads processed: 39369979
+# reads with at least one reported alignment: 16294751 (41.39%)
+# reads that failed to align: 20993289 (53.32%)
+# reads with alignments suppressed due to -m: 2081939 (5.29%)
+Reported 16294751 paired-end alignments to 1 output stream(s)
+Time searching: 05:22:11
+Overall time: 05:22:11
+
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164547_1.fastq -2 /home/storage/lung/ls/ERR164547_2.fastq /home/storage/lung/result_samB/ERR164547.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:12:31
+# reads processed: 37039026
+# reads with at least one reported alignment: 15816343 (42.70%)
+# reads that failed to align: 19489169 (52.62%)
+# reads with alignments suppressed due to -m: 1733514 (4.68%)
+Reported 15816343 paired-end alignments to 1 output stream(s)
+Time searching: 05:12:48
+Overall time: 05:12:48
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164548_1.fastq -2 /home/storage/lung/ls/ERR164548_2.fastq /home/storage/lung/result_samB/ERR164548.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:29:00
+# reads processed: 39530504
+# reads with at least one reported alignment: 16539786 (41.84%)
+# reads that failed to align: 21095113 (53.36%)
+# reads with alignments suppressed due to -m: 1895605 (4.80%)
+Reported 16539786 paired-end alignments to 1 output stream(s)
+Time searching: 05:29:17
+Overall time: 05:29:17
+
+
+
+
+
+
+
+
+
+[root@hesper bowtie-1.0.0]# sh ls_bowtie_505-549B.sh 
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164512_1.fastq -2 /home/storage/lung/ls/ERR164512_2.fastq /home/storage/lung/result_samB/ERR164512.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:37:41
+# reads processed: 39920425
+# reads with at least one reported alignment: 17820964 (44.64%)
+# reads that failed to align: 20101139 (50.35%)
+# reads with alignments suppressed due to -m: 1998322 (5.01%)
+Reported 17820964 paired-end alignments to 1 output stream(s)
+Time searching: 05:37:58
+Overall time: 05:37:58
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164536_1.fastq -2 /home/storage/lung/ls/ERR164536_2.fastq /home/storage/lung/result_samB/ERR164536.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 05:47:15
+# reads processed: 38797818
+# reads with at least one reported alignment: 18165135 (46.82%)
+# reads that failed to align: 18183311 (46.87%)
+# reads with alignments suppressed due to -m: 2449372 (6.31%)
+Reported 18165135 paired-end alignments to 1 output stream(s)
+Time searching: 05:47:31
+Overall time: 05:47:31
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164520_1.fastq -2 /home/storage/lung/ls/ERR164520_2.fastq /home/storage/lung/result_samB/ERR164520.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:04:14
+# reads processed: 35109105
+# reads with at least one reported alignment: 15492023 (44.13%)
+# reads that failed to align: 17524277 (49.91%)
+# reads with alignments suppressed due to -m: 2092805 (5.96%)
+Reported 15492023 paired-end alignments to 1 output stream(s)
+Time searching: 05:04:31
+Overall time: 05:04:31
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164524_1.fastq -2 /home/storage/lung/ls/ERR164524_2.fastq /home/storage/lung/result_samB/ERR164524.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:02:13
+# reads processed: 29128935
+# reads with at least one reported alignment: 13131958 (45.08%)
+# reads that failed to align: 14147841 (48.57%)
+# reads with alignments suppressed due to -m: 1849136 (6.35%)
+Reported 13131958 paired-end alignments to 1 output stream(s)
+Time searching: 04:02:30
+Overall time: 04:02:30
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164518_1.fastq -2 /home/storage/lung/ls/ERR164518_2.fastq /home/storage/lung/result_samB/ERR164518.sam
+
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:15:15
+# reads processed: 36693314
+# reads with at least one reported alignment: 17122791 (46.66%)
+# reads that failed to align: 17543535 (47.81%)
+# reads with alignments suppressed due to -m: 2026988 (5.52%)
+Reported 17122791 paired-end alignments to 1 output stream(s)
+Time searching: 05:15:31
+Overall time: 05:15:31
+
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164549_1.fastq -2 /home/storage/lung/ls/ERR164549_2.fastq /home/storage/lung/result_samB/ERR164549.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 06:27:45
+# reads processed: 46480356
+# reads with at least one reported alignment: 19994187 (43.02%)
+# reads that failed to align: 24169182 (52.00%)
+# reads with alignments suppressed due to -m: 2316987 (4.98%)
+Reported 19994187 paired-end alignments to 1 output stream(s)
+Time searching: 06:28:01
+Overall time: 06:28:01
+
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164515_1.fastq -2 /home/storage/lung/ls/ERR164515_2.fastq /home/storage/lung/result_samB/ERR164515.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 04:17:50
+# reads processed: 31497329
+# reads with at least one reported alignment: 13141948 (41.72%)
+# reads that failed to align: 16567264 (52.60%)
+# reads with alignments suppressed due to -m: 1788117 (5.68%)
+Reported 13141948 paired-end alignments to 1 output stream(s)
+Time searching: 04:18:06
+Overall time: 04:18:06
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164521_1.fastq -2 /home/storage/lung/ls/ERR164521_2.fastq /home/storage/lung/result_samB/ERR164521.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:51:55
+# reads processed: 36070935
+# reads with at least one reported alignment: 15216482 (42.18%)
+# reads that failed to align: 19041624 (52.79%)
+# reads with alignments suppressed due to -m: 1812829 (5.03%)
+Reported 15216482 paired-end alignments to 1 output stream(s)
+Time searching: 04:52:11
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164537_1.fastq -2 /home/storage/lung/ls/ERR164537_2.fastq /home/storage/lung/result_samB/ERR164537.sam
+Overall time: 04:52:11
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 03:53:18
+# reads processed: 28086427
+# reads with at least one reported alignment: 12543057 (44.66%)
+# reads that failed to align: 14037698 (49.98%)
+# reads with alignments suppressed due to -m: 1505672 (5.36%)
+Reported 12543057 paired-end alignments to 1 output stream(s)
+Time searching: 03:53:34
+Overall time: 03:53:34
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164505_1.fastq -2 /home/storage/lung/ls/ERR164505_2.fastq /home/storage/lung/result_samB/ERR164505.sam
+
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 06:07:19
+# reads processed: 45440332
+# reads with at least one reported alignment: 18667857 (41.08%)
+# reads that failed to align: 23411600 (51.52%)
+# reads with alignments suppressed due to -m: 3360875 (7.40%)
+Reported 18667857 paired-end alignments to 1 output stream(s)
+Time searching: 06:07:35
+Overall time: 06:07:35
+
+
+
+
+
+
+
+[root@hesper bowtie-1.0.0]# sh ls_bowtie_505-549C.sh 
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164508_1.fastq -2 /home/storage/lung/ls/ERR164508_2.fastq /home/storage/lung/result_samB/ERR164508.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:01:24
+# reads processed: 36929327
+# reads with at least one reported alignment: 14725880 (39.88%)
+# reads that failed to align: 20481702 (55.46%)
+# reads with alignments suppressed due to -m: 1721745 (4.66%)
+Reported 14725880 paired-end alignments to 1 output stream(s)
+Time searching: 05:01:42
+Overall time: 05:01:42
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164513_1.fastq -2 /home/storage/lung/ls/ERR164513_2.fastq /home/storage/lung/result_samB/ERR164513.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:08
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:04:21
+# reads processed: 36408281
+# reads with at least one reported alignment: 15936574 (43.77%)
+# reads that failed to align: 18506934 (50.83%)
+# reads with alignments suppressed due to -m: 1964773 (5.40%)
+Reported 15936574 paired-end alignments to 1 output stream(s)
+Time searching: 05:04:39
+Overall time: 05:04:39
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164532_1.fastq -2 /home/storage/lung/ls/ERR164532_2.fastq /home/storage/lung/result_samB/ERR164532.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 04:49:14
+# reads processed: 34867292
+# reads with at least one reported alignment: 15528106 (44.53%)
+# reads that failed to align: 17000105 (48.76%)
+# reads with alignments suppressed due to -m: 2339081 (6.71%)
+Reported 15528106 paired-end alignments to 1 output stream(s)
+Time searching: 04:49:31
+Overall time: 04:49:31
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164533_1.fastq -2 /home/storage/lung/ls/ERR164533_2.fastq /home/storage/lung/result_samB/ERR164533.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:19:27
+# reads processed: 38983377
+# reads with at least one reported alignment: 16389614 (42.04%)
+# reads that failed to align: 20185315 (51.78%)
+# reads with alignments suppressed due to -m: 2408448 (6.18%)
+Reported 16389614 paired-end alignments to 1 output stream(s)
+Time searching: 05:19:44
+Overall time: 05:19:44
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164516_1.fastq -2 /home/storage/lung/ls/ERR164516_2.fastq /home/storage/lung/result_samB/ERR164516.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 04:54:37
+# reads processed: 34642008
+# reads with at least one reported alignment: 15637512 (45.14%)
+# reads that failed to align: 17186209 (49.61%)
+# reads with alignments suppressed due to -m: 1818287 (5.25%)
+Reported 15637512 paired-end alignments to 1 output stream(s)
+Time searching: 04:54:53
+Overall time: 04:54:53
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164523_1.fastq -2 /home/storage/lung/ls/ERR164523_2.fastq /home/storage/lung/result_samB/ERR164523.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:36:45
+# reads processed: 33943554
+# reads with at least one reported alignment: 14419715 (42.48%)
+# reads that failed to align: 17507025 (51.58%)
+# reads with alignments suppressed due to -m: 2016814 (5.94%)
+Reported 14419715 paired-end alignments to 1 output stream(s)
+Time searching: 04:37:02
+Overall time: 04:37:02
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164546_1.fastq -2 /home/storage/lung/ls/ERR164546_2.fastq /home/storage/lung/result_samB/ERR164546.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 05:23:14
+# reads processed: 38877419
+# reads with at least one reported alignment: 16803178 (43.22%)
+# reads that failed to align: 18916378 (48.66%)
+# reads with alignments suppressed due to -m: 3157863 (8.12%)
+Reported 16803178 paired-end alignments to 1 output stream(s)
+Time searching: 05:23:31
+Overall time: 05:23:31
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164541_1.fastq -2 /home/storage/lung/ls/ERR164541_2.fastq /home/storage/lung/result_samB/ERR164541.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 06:29:46
+# reads processed: 46858874
+# reads with at least one reported alignment: 20710159 (44.20%)
+# reads that failed to align: 23669432 (50.51%)
+# reads with alignments suppressed due to -m: 2479283 (5.29%)
+Reported 20710159 paired-end alignments to 1 output stream(s)
+Time searching: 06:30:03
+Overall time: 06:30:03
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164535_1.fastq -2 /home/storage/lung/ls/ERR164535_2.fastq /home/storage/lung/result_samB/ERR164535.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 02:20:47
+# reads processed: 17270628
+# reads with at least one reported alignment: 7340141 (42.50%)
+# reads that failed to align: 8564474 (49.59%)
+# reads with alignments suppressed due to -m: 1366013 (7.91%)
+Reported 7340141 paired-end alignments to 1 output stream(s)
+Time searching: 02:21:03
+Overall time: 02:21:03
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164534_1.fastq -2 /home/storage/lung/ls/ERR164534_2.fastq /home/storage/lung/result_samB/ERR164534.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:53:07
+# reads processed: 35282174
+# reads with at least one reported alignment: 15680431 (44.44%)
+# reads that failed to align: 17731857 (50.26%)
+# reads with alignments suppressed due to -m: 1869886 (5.30%)
+Reported 15680431 paired-end alignments to 1 output stream(s)
+Time searching: 04:53:24
+Overall time: 04:53:24
+
+
+root@hesper bowtie-1.0.0]# sh ls_bowtie_505-549D.sh 
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164506_1.fastq -2 /home/storage/lung/ls/ERR164506_2.fastq /home/storage/lung/result_samB/ERR164506.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 05:45:52
+# reads processed: 41766400
+# reads with at least one reported alignment: 17508143 (41.92%)
+# reads that failed to align: 21220074 (50.81%)
+# reads with alignments suppressed due to -m: 3038183 (7.27%)
+Reported 17508143 paired-end alignments to 1 output stream(s)
+Time searching: 05:46:09
+Overall time: 05:46:09
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164542_1.fastq -2 /home/storage/lung/ls/ERR164542_2.fastq /home/storage/lung/result_samB/ERR164542.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 07:05:51
+# reads processed: 50435154
+# reads with at least one reported alignment: 23112333 (45.83%)
+# reads that failed to align: 24765210 (49.10%)
+# reads with alignments suppressed due to -m: 2557611 (5.07%)
+Reported 23112333 paired-end alignments to 1 output stream(s)
+Time searching: 07:06:08
+Overall time: 07:06:08
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164531_1.fastq -2 /home/storage/lung/ls/ERR164531_2.fastq /home/storage/lung/result_samB/ERR164531.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:37:21
+# reads processed: 33008257
+# reads with at least one reported alignment: 15009340 (45.47%)
+# reads that failed to align: 16101726 (48.78%)
+# reads with alignments suppressed due to -m: 1897191 (5.75%)
+Reported 15009340 paired-end alignments to 1 output stream(s)
+Time searching: 04:37:37
+Overall time: 04:37:37
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164511_1.fastq -2 /home/storage/lung/ls/ERR164511_2.fastq /home/storage/lung/result_samB/ERR164511.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:20:08
+# reads processed: 31290309
+# reads with at least one reported alignment: 13365874 (42.72%)
+# reads that failed to align: 16172673 (51.69%)
+# reads with alignments suppressed due to -m: 1751762 (5.60%)
+Reported 13365874 paired-end alignments to 1 output stream(s)
+Time searching: 04:20:24
+Overall time: 04:20:24
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164517_1.fastq -2 /home/storage/lung/ls/ERR164517_2.fastq /home/storage/lung/result_samB/ERR164517.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:28:16
+# reads processed: 31193217
+# reads with at least one reported alignment: 14279374 (45.78%)
+# reads that failed to align: 15317355 (49.10%)
+# reads with alignments suppressed due to -m: 1596488 (5.12%)
+Reported 14279374 paired-end alignments to 1 output stream(s)
+Time searching: 04:28:33
+Overall time: 04:28:33
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164507_1.fastq -2 /home/storage/lung/ls/ERR164507_2.fastq /home/storage/lung/result_samB/ERR164507.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 04:55:11
+# reads processed: 36620147
+# reads with at least one reported alignment: 14908188 (40.71%)
+# reads that failed to align: 18843526 (51.46%)
+# reads with alignments suppressed due to -m: 2868433 (7.83%)
+Reported 14908188 paired-end alignments to 1 output stream(s)
+Time searching: 04:55:27
+Overall time: 04:55:27
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164545_1.fastq -2 /home/storage/lung/ls/ERR164545_2.fastq /home/storage/lung/result_samB/ERR164545.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 07:17:36
+# reads processed: 52624636
+# reads with at least one reported alignment: 22730481 (43.19%)
+# reads that failed to align: 27354288 (51.98%)
+# reads with alignments suppressed due to -m: 2539867 (4.83%)
+Reported 22730481 paired-end alignments to 1 output stream(s)
+Time searching: 07:17:53
+Overall time: 07:17:53
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164538_1.fastq -2 /home/storage/lung/ls/ERR164538_2.fastq /home/storage/lung/result_samB/ERR164538.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 04:48:12
+# reads processed: 35274948
+# reads with at least one reported alignment: 14355822 (40.70%)
+# reads that failed to align: 19092859 (54.13%)
+# reads with alignments suppressed due to -m: 1826267 (5.18%)
+Reported 14355822 paired-end alignments to 1 output stream(s)
+Time searching: 04:48:29
+Overall time: 04:48:29
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164519_1.fastq -2 /home/storage/lung/ls/ERR164519_2.fastq /home/storage/lung/result_samB/ERR164519.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 04:55:36
+# reads processed: 34871202
+# reads with at least one reported alignment: 15799737 (45.31%)
+# reads that failed to align: 17257438 (49.49%)
+# reads with alignments suppressed due to -m: 1814027 (5.20%)
+Reported 15799737 paired-end alignments to 1 output stream(s)
+Time searching: 04:55:52
+Overall time: 04:55:52
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164510_1.fastq -2 /home/storage/lung/ls/ERR164510_2.fastq /home/storage/lung/result_samB/ERR164510.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 04:18:30
+# reads processed: 31899940
+# reads with at least one reported alignment: 12813502 (40.17%)
+# reads that failed to align: 17301209 (54.24%)
+# reads with alignments suppressed due to -m: 1785229 (5.60%)
+Reported 12813502 paired-end alignments to 1 output stream(s)
+Time searching: 04:18:47
+Overall time: 04:18:47
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164530_1.fastq -2 /home/storage/lung/ls/ERR164530_2.fastq /home/storage/lung/result_samB/ERR164530.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 03:56:51
+# reads processed: 28568100
+# reads with at least one reported alignment: 12256580 (42.90%)
+# reads that failed to align: 14618229 (51.17%)
+# reads with alignments suppressed due to -m: 1693291 (5.93%)
+Reported 12256580 paired-end alignments to 1 output stream(s)
+Time searching: 03:57:08
+Overall time: 03:57:08
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164527_1.fastq -2 /home/storage/lung/ls/ERR164527_2.fastq /home/storage/lung/result_samB/ERR164527.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 04:46:48
+# reads processed: 33656997
+# reads with at least one reported alignment: 16059618 (47.72%)
+# reads that failed to align: 15201117 (45.16%)
+# reads with alignments suppressed due to -m: 2396262 (7.12%)
+Reported 16059618 paired-end alignments to 1 output stream(s)
+Time searching: 04:47:05
+Overall time: 04:47:05
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164543_1.fastq -2 /home/storage/lung/ls/ERR164543_2.fastq /home/storage/lung/result_samB/ERR164543.sam
+
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 06:06:08
+# reads processed: 43998403
+# reads with at least one reported alignment: 19645693 (44.65%)
+# reads that failed to align: 21747852 (49.43%)
+# reads with alignments suppressed due to -m: 2604858 (5.92%)
+Reported 19645693 paired-end alignments to 1 output stream(s)
+Time searching: 06:06:24
+Overall time: 06:06:24
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164544_1.fastq -2 /home/storage/lung/ls/ERR164544_2.fastq /home/storage/lung/result_samB/ERR164544.sam
+Time loading forward index: 00:00:07
+Time loading mirror index: 00:00:06
+Time loading reference: 00:00:04
+End-to-end 2/3-mismatch full-index search: 06:06:19
+# reads processed: 45519810
+# reads with at least one reported alignment: 18880540 (41.48%)
+# reads that failed to align: 23878964 (52.46%)
+# reads with alignments suppressed due to -m: 2760306 (6.06%)
+Reported 18880540 paired-end alignments to 1 output stream(s)
+Time searching: 06:06:36
+Overall time: 06:06:36
+
+./bowtie -t -v 3 -S -m 1 -p 7 -X 500 hg19 -1 /home/storage/lung/ls/ERR164525_1.fastq -2 /home/storage/lung/ls/ERR164525_2.fastq /home/storage/lung/result_samB/ERR164525.sam
+Time loading forward index: 00:00:06
+Time loading mirror index: 00:00:07
+Time loading reference: 00:00:03
+End-to-end 2/3-mismatch full-index search: 05:18:07
+# reads processed: 37843199
+# reads with at least one reported alignment: 17477316 (46.18%)
+# reads that failed to align: 18346596 (48.48%)
+# reads with alignments suppressed due to -m: 2019287 (5.34%)
+Reported 17477316 paired-end alignments to 1 output stream(s)
+Time searching: 05:18:23
+Overall time: 05:18:23
+
+
